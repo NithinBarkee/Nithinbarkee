@@ -1,4 +1,4 @@
-# 💫 Hi I Am nithin Barkee
+# 💫 Hi I'm nithin Barkee
 🔭 I’m currently working on Python projects and improving my coding skills.<br><br>👯 I’m looking to collaborate on Python, AI, and Machine Learning projects.<br><br>🤝 I’m looking for help with Data Structures and Algorithms (DSA).<br><br>🌱 I’m currently learning Python, Git, GitHub, and Artificial Intelligence.<br><br>💬 Ask me about Python programming and my journey towards becoming an AI Engineer.<br><br>⚡ Fun fact: I believe consistent practice can turn a beginner into a skilled engineer! 🚀
 
 
